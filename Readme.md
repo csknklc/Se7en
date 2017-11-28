@@ -5,7 +5,7 @@
 ](https://github.com/csknklc/Se7en)
 
 ## Color Scheme for Sublime Text 3
-This has been created with C, C++ and C# in mind but I'll gladly help make it better for other languages as well.
+se7en color scheme has been created with C, C++ and C# in mind but I'll gladly help make it better for other languages as well.
 
 [![GitHub Tags](https://img.shields.io/badge/coverage-C%2FC%2B%2B-blue.svg)
 ](https://github.com/csknklc/Se7en)
