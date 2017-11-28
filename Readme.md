@@ -21,7 +21,7 @@ This has been created with C, C++ and C# in mind but I'll gladly help make it be
 
 ## Manuel Installation
 * Download repository.
-* Uncompress the package
+* Extract the package
 * Copy 'Se7en' folder.
 * Click 'Preferences->Browse Packages' paste the folder into here. 
 * Click 'Preferences->Color Scheme...' type 'Se7en' and select it. 
