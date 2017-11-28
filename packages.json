@@ -1,17 +1,16 @@
 {
-    "schema_version": "1.0.0",
-
-    "packages": [
+  "schema_version": "1.0.0",
+  "packages": [
+    {
+      "name": "Se7en",
+      "details": "https://github.com/csknklc/se7en",
+      "releases": [
         {
-            "name": "Se7en",
-            "details": "https://github.com/csknklc/se7en",
-            "releases": [
-                {
-                    "sublime_text": "*",
-                    "tags": true
-                }
-            ],
-            "labels": ["color scheme"]
+          "sublime_text": "*",
+          "tags": true
         }
-    ]
+      ],
+      "labels": ["color scheme"]
+    }
+  ]
 }
