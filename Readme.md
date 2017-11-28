@@ -30,7 +30,7 @@ This has been created with C, C++ and C# in mind but I'll gladly help make it be
 [![GitHub Tags](https://img.shields.io/badge/status-available-brightgreen.svg)
 ](https://github.com/csknklc/Se7en)
 
-## Screen Shots
+## Screenshots
 
 [![GitHub Tags](https://img.shields.io/badge/theme-Material-orange.svg)
 ](http://equinsuocha.io/material-theme/#/default)
