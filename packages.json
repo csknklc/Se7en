@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "Se7en",
-      "details": "https://github.com/csknklc/se7en",
+      "details": "https://github.com/csknklc/se7en/themes",
       "releases": [
         {
           "sublime_text": "*",
