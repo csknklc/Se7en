@@ -36,7 +36,7 @@ This has been created with C, C++ and C# in mind but I'll gladly help make it be
 ](http://equinsuocha.io/material-theme/#/default)
 
 ###
-![black01](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_black_01.png)
+[![black01](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_black_01.png)]
 ###
 ![black02](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_black_02.png)
 ###
