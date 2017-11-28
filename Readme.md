@@ -35,7 +35,7 @@ This has been created with C, C++ and C# in mind but I'll gladly help make it be
 [![GitHub Tags](https://img.shields.io/badge/theme-Material-orange.svg)
 ](http://equinsuocha.io/material-theme/#/default)
 
-![mixed](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en.png)
+![mixed](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_mixed.png)
 
 ## License
 [![GitHub Tags](https://img.shields.io/apm/l/vim-mode.svg)
