@@ -35,12 +35,7 @@ This has been created with C, C++ and C# in mind but I'll gladly help make it be
 [![GitHub Tags](https://img.shields.io/badge/theme-Material-orange.svg)
 ](http://equinsuocha.io/material-theme/#/default)
 
-![black01](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_black_01.png)
-![black02](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_black_02.png)
-![dark01](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_dark_01.png)
-![dark02](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_dark_02.png)
-![light01](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_light_01.png)
-![light02](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_light_02.png)
+![mixed](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en.png)
 
 ## License
 [![GitHub Tags](https://img.shields.io/apm/l/vim-mode.svg)
