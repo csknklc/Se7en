@@ -35,6 +35,9 @@ This has been created with C, C++ and C# in mind but I'll gladly help make it be
 [![GitHub Tags](https://img.shields.io/badge/theme-Material-orange.svg)
 ](http://equinsuocha.io/material-theme/#/default)
 
+[![GitHub Tags](https://img.shields.io/badge/color-black%20dark%20light-ff69b4.svg)
+](https://github.com/csknklc/FreshColor)
+
 ![mixed](https://github.com/csknklc/Se7en/blob/master/Screenshots/se7en_mixed.png)
 
 ## License
