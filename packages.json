@@ -4,13 +4,13 @@
     {
       "name": "Se7en",
       "details": "https://github.com/csknklc/se7en",
+      "labels": ["color scheme"],
       "releases": [
         {
           "sublime_text": "*",
           "tags": true
         }
-      ],
-      "labels": ["color scheme"]
+      ]
     }
   ]
 }
