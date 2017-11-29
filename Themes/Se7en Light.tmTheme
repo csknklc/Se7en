@@ -218,7 +218,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#238BB8</string>
+				<string>#BD34FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -236,7 +236,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library class&#x2f;type</string>
+			<string>Library class</string>
 			<key>scope</key>
 			<string>support.type, support.class</string>
 			<key>settings</key>
