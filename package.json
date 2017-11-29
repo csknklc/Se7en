@@ -1,4 +1,5 @@
 {
+  "color_scheme": "Packages/Se7en/Themes/Se7en Black.tmTheme",
   "name": "Se7en",
   "version": "1.0.0",
   "description": "Se7en Color Schemes",
@@ -16,7 +17,7 @@
     "dark",
     "light"
   ],
-  "author": "csknklc",
+  "author": "Coşkun KILIÇ",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {}
