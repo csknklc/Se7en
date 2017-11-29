@@ -1,10 +1,5 @@
 {
 	"schema_version": "1.0.0",
-	"color_scheme": [
-		"Packages/Se7en/Themes/Se7en Black.tmTheme",
-		"Packages/Se7en/Themes/Se7en Dark.tmTheme",
-		"Packages/Se7en/Themes/Se7en Light.tmTheme"
-	],
 	"packages": [
 		{
 			"name": "Se7en",
