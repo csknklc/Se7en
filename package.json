@@ -1,12 +1,23 @@
 {
-	"name": "Se7en",
-	"author": "csknklc",
-	"details": "https://github.com/csknklc/se7en",
-	"labels": ["color scheme"],
-	"releases": [
-		{
-			"sublime_text": "*",
-			"tags": true
-		}
-	]
+  "name": "Se7en",
+  "version": "1.0.0",
+  "description": "Se7en Color Schemes",
+  "repository": {
+    "type": "git",
+    "url": "https://csknklc.github.io/se7en.git"
+  },
+  "bugs": {
+    "url": "https://github.com/csknklc/se7en/issues"
+  },
+  "keywords": [
+    "color",
+    "scheme",
+    "black",
+    "dark",
+    "light"
+  ],
+  "author": "Coşkun KILIÇ",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
 }
