@@ -6,7 +6,7 @@
     "Packages/Se7en/Themes/Se7en Black.tmTheme",
     "Packages/Se7en/Themes/Se7en Dark.tmTheme",
     "Packages/Se7en/Themes/Se7en Light.tmTheme"
-  ]
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/csknklc/se7en.git"
