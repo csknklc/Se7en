@@ -1,21 +1,12 @@
 {
-	"schema_version": "1.0.0",
-	"color_scheme": [
-		"Packages/Se7en/Themes/Se7en Black.tmTheme",
-		"Packages/Se7en/Themes/Se7en Dark.tmTheme",
-		"Packages/Se7en/Themes/Se7en Light.tmTheme"
-	],
-	"packages": [
+	"name": "Se7en",
+	"details": "https://github.com/csknklc/se7en",
+	"labels": ["color scheme"],
+	"releases": [
 		{
-			"name": "Se7en",
-			"details": "https://github.com/csknklc/se7en",
-			"labels": ["color scheme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-	  	}
+			"sublime_text": "*",
+			"tags": true
+		}
 	]
 }
+
