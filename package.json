@@ -1,16 +1,12 @@
 {
-	"packages": [
+	"name": "Se7en",
+	"author": "csknklc",
+	"details": "https://github.com/csknklc/se7en",
+	"labels": ["color scheme"],
+	"releases": [
 		{
-			"name": "Se7en",
-			"author": "csknklc",
-			"details": "https://github.com/csknklc/se7en",
-			"labels": ["color scheme"],
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
+			"sublime_text": "*",
+			"tags": true
 		}
 	]
 }
