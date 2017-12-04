@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
 <!--
- - @Name:			Se7en Dark
+ - @Name:			Se7en Gray
  - @Author:		Coşkun KILIÇ
  - @License:	The MIT License (MIT)
  - @URL:			https://github.com/csknklc/Se7en
@@ -377,7 +377,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.se7en_black</string>
+	<string>theme.dark.se7en_gray</string>
 	<key>author</key>
 	<string>Coşkun KILIÇ</string>
 	<key>comment</key>
