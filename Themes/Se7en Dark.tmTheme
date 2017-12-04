@@ -11,14 +11,14 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Se7en Dark</string>
+	<string>Se7en Black</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#292929</string>
+				<string>#141414</string>
 				<key>caret</key>
 				<string>#F2F2F2</string>
 				<key>foreground</key>
@@ -39,7 +39,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#828282</string>
+				<string>#4D4D4D</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -96,7 +96,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B5D6FF</string>
+				<string>#63A7FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,10 +117,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#FF3D22</string>
 				<key>fontStyle</key>
 				<string> italic</string>
+				<key>foreground</key>
+				<string>#FF3D22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -130,10 +130,10 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#FF3D22</string>
-				<key>fontStyle</key>
-				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -143,10 +143,8 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline  </string>
 				<key>foreground</key>
-				<string>#41D94D</string>
+				<string>#FF7B00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -156,10 +154,10 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string> underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#FF0084</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -169,8 +167,10 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#25B24F</string>
+				<string>#00E65C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,6 +217,8 @@
 			<string>support.function</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#EFFF00</string>
 			</dict>
@@ -241,10 +243,10 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#C3904A</string>
-				<key>fontStyle</key>
-				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -255,7 +257,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#C3904A</string>
 			</dict>
@@ -309,7 +311,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFEAD0</string>
+				<string>#FFE9CC</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -342,7 +346,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CFC8A6</string>
+				<string>#DBD5B8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -364,7 +368,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#1288D9</string>
+				<string>#40A8FF</string>
 			</dict>
 		</dict>
 	</array>
@@ -373,10 +377,10 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.se7en</string>
+	<string>theme.dark.se7en_black</string>
 	<key>author</key>
 	<string>Coşkun KILIÇ</string>
 	<key>comment</key>
-	<string>https://github.com/csknklc/Se7en</string>
+	<string>https://github.com/csknklc/se7en</string>
 </dict>
 </plist>

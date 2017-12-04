@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
 <!--
- - @Name:			Se7en Light
+ - @Name:			Se7en Dark
  - @Author:		Coşkun KILIÇ
  - @License:	The MIT License (MIT)
  - @URL:			https://github.com/csknklc/Se7en
@@ -11,24 +11,24 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Se7en Light</string>
+	<string>Se7en Black</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F7F7F7</string>
+				<string>#282828</string>
 				<key>caret</key>
-				<string>#6B6B6B</string>
+				<string>#F2F2F2</string>
 				<key>foreground</key>
-				<string>#6B6B6B</string>
+				<string>#EBEBEB</string>
 				<key>invisibles</key>
-				<string>#FFFFFF</string>
+				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#FF003C</string>
+				<string>#3E3D32</string>
 				<key>selection</key>
-				<string>#B8B8B8</string>
+				<string>#49483E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -39,7 +39,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C4C4C4</string>
+				<string>#4D4D4D</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -52,7 +52,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFAA2B</string>
+				<string>#D9DA33</string>
 			</dict>
 		</dict>
 		<dict>
@@ -63,7 +63,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9900</string>
+				<string>#FFFF00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFB13B</string>
+				<string>#FFFF00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +96,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#238BB8</string>
+				<string>#63A7FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,10 +117,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#FF3D22</string>
 				<key>fontStyle</key>
 				<string> italic</string>
+				<key>foreground</key>
+				<string>#FF3D22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -130,10 +130,10 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#FF3D22</string>
-				<key>fontStyle</key>
-				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -143,10 +143,8 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline  </string>
 				<key>foreground</key>
-				<string>#41D94D</string>
+				<string>#FF7B00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -156,10 +154,10 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string> underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#FF0084</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -169,8 +167,10 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#25B24F</string>
+				<string>#00E65C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -181,7 +181,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9900</string>
+				<string>#E6E31C</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -207,7 +207,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#238BB8</string>
+				<string>#2998FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,8 +217,10 @@
 			<string>support.function</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#BD34FF</string>
+				<string>#EFFF00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -231,7 +233,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF9900</string>
+				<string>#FFFF00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,10 +243,10 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#C3904A</string>
-				<key>fontStyle</key>
-				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -255,7 +257,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#C3904A</string>
 			</dict>
@@ -272,7 +274,7 @@
 				<key>fontStyle</key>
 				<string> underline</string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +287,7 @@
 				<key>background</key>
 				<string>#AE81FF</string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#F8F8F0</string>
 				<key>fontStyle</key>
 				<string> underline</string>
 			</dict>
@@ -298,7 +300,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ED8E00</string>
+				<string>#FFFF00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -309,9 +311,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#949494</string>
+				<string>#FFE9CC</string>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -344,7 +346,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#545454</string>
+				<string>#DBD5B8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -355,7 +357,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B800</string>
+				<string>#E8FF00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -366,7 +368,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#238BB8</string>
+				<string>#40A8FF</string>
 			</dict>
 		</dict>
 	</array>
@@ -375,7 +377,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.se7en</string>
+	<string>theme.dark.se7en_black</string>
 	<key>author</key>
 	<string>Coşkun KILIÇ</string>
 	<key>comment</key>
