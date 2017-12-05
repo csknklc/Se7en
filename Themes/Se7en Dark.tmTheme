@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
 <!--
- - @Name:			Se7en Dark
+ - @Name:			Se7en Light
  - @Author:		Coşkun KILIÇ
  - @License:	The MIT License (MIT)
  - @URL:			https://github.com/csknklc/Se7en
@@ -63,7 +63,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFF00</string>
+				<string>#F1FF30</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFF00</string>
+				<string>#F1FF30</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,7 +107,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF3D22</string>
+				<string>#FC4949</string>
 			</dict>
 		</dict>
 		<dict>
@@ -120,7 +120,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>foreground</key>
-				<string>#FF3D22</string>
+				<string>#FC4949</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +133,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FF3D22</string>
+				<string>#FC4949</string>
 			</dict>
 		</dict>
 		<dict>
@@ -144,7 +144,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF7B00</string>
+				<string>#FF8F26</string>
 			</dict>
 		</dict>
 		<dict>
@@ -155,7 +155,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF0084</string>
+				<string>#FF4CA8</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -196,7 +196,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DB3069</string>
+				<string>#DB4474</string>
 			</dict>
 		</dict>
 		<dict>
@@ -207,7 +207,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2998FF</string>
+				<string>#369EFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -220,7 +220,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EFFF00</string>
+				<string>#F1FF30</string>
 			</dict>
 		</dict>
 		<dict>
@@ -233,7 +233,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFF00</string>
+				<string>#F1FF30</string>
 			</dict>
 		</dict>
 		<dict>
@@ -300,7 +300,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFF00</string>
+				<string>#F1FF30</string>
 			</dict>
 		</dict>
 		<dict>
@@ -335,7 +335,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF3D22</string>
+				<string>#FC4949</string>
 			</dict>
 		</dict>
 		<dict>
@@ -357,7 +357,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E8FF00</string>
+				<string>#ECFF45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -377,7 +377,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.se7en_dark</string>
+	<string>theme.dark.se7en</string>
 	<key>author</key>
 	<string>Coşkun KILIÇ</string>
 	<key>comment</key>
