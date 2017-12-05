@@ -42,7 +42,7 @@ se7en color scheme has been created with C, C++ and C# in mind but I'll gladly h
 [![GitHub Tags](https://img.shields.io/badge/color-light-blue.svg)
 ](https://github.com/csknklc/Se7en)
 
-![se7en_mixed](https://user-images.githubusercontent.com/22396814/33345826-bacecd9c-d49e-11e7-8361-483f86ec1703.png)
+![se7en mixed](https://user-images.githubusercontent.com/22396814/33620038-d2b30a5a-d9f7-11e7-9798-ebb97b858265.png)
 
 ## License
 [![GitHub Tags](https://img.shields.io/apm/l/vim-mode.svg)
