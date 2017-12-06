@@ -16,7 +16,7 @@ se7en color scheme has been created with C, C++ and C# in mind but I'll gladly h
 * <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> then select `Package Control: Install Package`
 * Type `Se7en` and press <kbd>ENTER</kbd>
 
-[![GitHub Tags](https://img.shields.io/jira/sprint/https/jira.spring.io/94.svg)
+[![GitHub Tags](https://img.shields.io/badge/status-available-brightgreen.svg)
 ](https://github.com/csknklc/Se7en)
 
 ## Manuel Installation
