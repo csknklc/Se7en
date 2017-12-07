@@ -35,14 +35,14 @@ se7en color scheme has been created with C, C++ and C# in mind but I'll gladly h
 [![GitHub Tags](https://img.shields.io/badge/theme-Material-orange.svg)
 ](http://equinsuocha.io/material-theme/#/default)
 
-[![GitHub Tags](https://img.shields.io/badge/color-black-000000.svg)
+[![GitHub Tags](https://img.shields.io/badge/color-dark-010101.svg)
 ](https://github.com/csknklc/Se7en)
 
 ![dark_01](https://user-images.githubusercontent.com/22396814/33724420-729cd44a-db80-11e7-923f-0ee32e8d4109.png)
 
 ##
 
-[![GitHub Tags](https://img.shields.io/badge/color-dark-lightgrey.svg)
+[![GitHub Tags](https://img.shields.io/badge/color-gray-lightgrey.svg)
 ](https://github.com/csknklc/Se7en)
 
 ![gray_01](https://user-images.githubusercontent.com/22396814/33724459-81d33cec-db80-11e7-8af6-19aedceeaa12.png)
