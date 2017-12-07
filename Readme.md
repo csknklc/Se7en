@@ -39,6 +39,7 @@ se7en color scheme has been created with C, C++ and C# in mind but I'll gladly h
 ](https://github.com/csknklc/Se7en)
 
 ![dark_01](https://user-images.githubusercontent.com/22396814/33724420-729cd44a-db80-11e7-923f-0ee32e8d4109.png)
+![dark_02](https://user-images.githubusercontent.com/22396814/33724580-d877e61a-db80-11e7-965f-efaf334c56fe.png)
 
 ##
 
