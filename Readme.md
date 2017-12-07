@@ -40,10 +40,14 @@ se7en color scheme has been created with C, C++ and C# in mind but I'll gladly h
 
 ![dark_01](https://user-images.githubusercontent.com/22396814/33724420-729cd44a-db80-11e7-923f-0ee32e8d4109.png)
 
+##
+
 [![GitHub Tags](https://img.shields.io/badge/color-dark-lightgrey.svg)
 ](https://github.com/csknklc/Se7en)
 
 ![gray_01](https://user-images.githubusercontent.com/22396814/33724459-81d33cec-db80-11e7-8af6-19aedceeaa12.png)
+
+##
 
 [![GitHub Tags](https://img.shields.io/badge/color-light-blue.svg)
 ](https://github.com/csknklc/Se7en)
