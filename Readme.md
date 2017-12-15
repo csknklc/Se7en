@@ -1,7 +1,7 @@
 # Se7en Color Scheme
 [![GitHub Tags](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 ](https://github.com/csknklc/Se7en)
-[![GitHub Tags](https://img.shields.io/badge/sublime--text-3-red.svg)
+[![GitHub Tags](https://img.shields.io/badge/sublime--text-2%2F3-red.svg)
 ](https://github.com/csknklc/Se7en)
 
 ## Color Schemes [ST2/ST3]
