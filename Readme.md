@@ -1,4 +1,4 @@
-# Se7en Color Scheme
+# Se7en Color Schemes
 [![GitHub Tags](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 ](https://github.com/csknklc/Se7en)
 [![GitHub Tags](https://img.shields.io/badge/sublime--text-2%2F3-red.svg)
@@ -14,7 +14,8 @@ se7en color scheme has been created with C, C++ and C# in mind but I'll gladly h
 
 * Use [Sublime Package Control](http://wbond.net/sublime_packages/package_control "Sublime Package Control")
 * <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> then select `Package Control: Install Package`
-* Type `Se7en` and press <kbd>ENTER</kbd>
+* Click 'Preferences->Color Scheme...' 
+* Type 'Se7en Dark/Gray/Light' and press <kbd>ENTER</kbd>
 
 [![GitHub Tags](https://img.shields.io/badge/status-available-brightgreen.svg)
 ](https://github.com/csknklc/Se7en)
@@ -22,9 +23,10 @@ se7en color scheme has been created with C, C++ and C# in mind but I'll gladly h
 ## Manuel Installation
 * Download repository.
 * Extract the package
-* Copy 'Se7en' folder.
+* Copy 'Se7en Color Schemes' folder.
 * Click 'Preferences->Browse Packages' paste the folder into here. 
-* Click 'Preferences->Color Scheme...' type 'Se7en' and select it. 
+* Click 'Preferences->Color Scheme...' 
+* Type 'Se7en Dark/Gray/Light' and press <kbd>ENTER</kbd>
 * Ready for usage.
 
 [![GitHub Tags](https://img.shields.io/badge/status-available-brightgreen.svg)
