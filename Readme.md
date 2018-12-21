@@ -1,5 +1,5 @@
 # Se7en Color Schemes
-[![GitHub Tags](https://img.shields.io/badge/version-0.2.1-green.svg)
+[![GitHub Tags](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 ](https://github.com/csknklc/Se7en)
 [![GitHub Tags](https://img.shields.io/badge/sublime--text-2%2F3-red.svg)
 ](https://github.com/csknklc/Se7en)
